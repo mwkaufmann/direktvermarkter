@@ -3,7 +3,7 @@
 
 Webseite: https://codeforkarlsruhe.github.io/direktvermarkter/
 
-Mirrow: http://stefang.cepheus.uberspace.de/farmshops/
+Mirror: http://stefang.cepheus.uberspace.de/farmshops/
 
 ![Map example](https://raw.githubusercontent.com/codeforkarlsruhe/direktvermarkter/master/img/direktvermarkter.png)
 
